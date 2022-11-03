@@ -1,0 +1,15 @@
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\bin\Release\net6.0\Checkpoint2-Productlist.exe
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\bin\Release\net6.0\Checkpoint2-Productlist.deps.json
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\bin\Release\net6.0\Checkpoint2-Productlist.runtimeconfig.json
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\bin\Release\net6.0\Checkpoint2-Productlist.dll
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\bin\Release\net6.0\Checkpoint2-Productlist.pdb
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.csproj.AssemblyReference.cache
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.AssemblyInfoInputs.cache
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.AssemblyInfo.cs
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.dll
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\refint\Checkpoint2-Productlist.dll
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.pdb
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\Checkpoint2-Productlist.genruntimeconfig.cache
+D:\GitHub\CSharpKurs\Checkpoint2-Productlist\obj\Release\net6.0\ref\Checkpoint2-Productlist.dll
